@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bharath S",
   "license": "ISC",
   "dependencies": {
     "cypress": "^4.7.0",
@@ -23,5 +23,5 @@
     "url": "https://github.com/bh4rath/Cypress_Framework/issues"
   },
   "homepage": "https://github.com/bh4rath/Cypress_Framework#readme",
-  "description": ""
+  "description": "Demo Cypress Framework"
 }
