@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- [Authors] (#authors)
-- [Pre-requisites] (#pre-requisites)
-- [Libraries] (#libraries)
-- [Running-Tests] (#running-tests)
-- [Test-Results] (#test-results)
+- [Authors](#authors)
+- [Pre-requisites](#pre-requisites)
+- [Libraries](#libraries)
+- [Running-Tests](#running-tests)
+- [Test-Results](#test-results)
 
 ## Authors
 * [Bharath](https://github.com/bh4rath)
