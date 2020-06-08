@@ -1,5 +1,6 @@
 # Demo Cypress Automation Framework
-
+ This is a demo cypress framework which i have developed following the [blog post](https://www.linkedin.com/pulse/part-1-hands-on-test-automation-project-cypress-reis-fernandes/) [Soraia Reis](https://github.com/soraiareis)
+ 
 ## Table of Contents
 
 - [Authors](#authors)
@@ -21,6 +22,7 @@
 
 ## Running Tests
 ```npm run cy:open```
+
 ```npm run cy:run```
 
 ## Test Results
