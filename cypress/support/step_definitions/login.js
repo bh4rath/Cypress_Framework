@@ -24,6 +24,6 @@ When('I click on Login button', () => {
 Then('I see {string} message', (expected) => {
     const message = securePage.getMessage();
     message.should((actual) => {
-        expected(actual).to.have.string(expected);
+        expect(actual).to.have.string(expected);
     })
 });

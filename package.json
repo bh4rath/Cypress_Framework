@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:run": "./node_modules/.bin/cypress run",
+    "cy:open": "./node_modules/.bin/cypress open",
+    "cy:tags": "./node_modules/.bin/cypress-tags run"
   },
   "keywords": [],
   "author": "Bharath S",
@@ -17,7 +19,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bh4rath/Cypress_Framework.git"
+    "url": "https://github.com/bh4rath/Cypress_Framework.git"
   },
   "bugs": {
     "url": "https://github.com/bh4rath/Cypress_Framework/issues"
