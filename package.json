@@ -1,7 +1,6 @@
 {
   "name": "Cypress",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +9,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mocha": "^7.2.0"
-  }
+    "cypress": "^4.7.0",
+    "cypress-cucumber-preprocessor": "^2.4.0",
+    "mocha": "^7.2.0",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bh4rath/Cypress_Framework.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bh4rath/Cypress_Framework/issues"
+  },
+  "homepage": "https://github.com/bh4rath/Cypress_Framework#readme",
+  "description": ""
 }
