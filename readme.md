@@ -26,3 +26,4 @@
 ```npm run cy:run```
 
 ## Test Results
+![image](https://user-images.githubusercontent.com/34835631/84049453-193ae700-a9ca-11ea-9367-99bdd5c8d92c.png)
